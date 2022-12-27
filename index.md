@@ -1,5 +1,4 @@
-評分網址：
-<a href="https://forms.gle/e6PiGo6iJpQqQfW38" target="_blank">https://forms.gle/e6PiGo6iJpQqQfW38</a>
+NTSC-Music Demo
 
 
 <!-- "https://raw.githubusercontent.com/EpochKC/Music-Demo-3/main/D5N/d5n_get_5.mp3" -->
